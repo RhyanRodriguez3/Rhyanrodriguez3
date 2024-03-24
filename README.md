@@ -1,4 +1,4 @@
-<h3 align="left">Welcome! Explore my profile and view my coding projects💼📈.</h3>
+<h3 align="left">Welcome! Explore my profile and view my coding projects.</h3>
 
 
 <h3 align="left">Personal Developer Stack</h3>
