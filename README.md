@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/media/EzkIesyX0AA3CNW.png" alt="Banner" width="400"/>
+![Banner](https://pbs.twimg.com/media/EzkIesyX0AA3CNW.png)
 
 <h3 align="left">Welcome! Explore my profile and view my coding projects.</h3>
 
