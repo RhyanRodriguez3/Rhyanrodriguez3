@@ -1,4 +1,4 @@
-<img src="[https://example.com/banner.jpg" alt="Banner" width="600](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/106/526/datas/original.gif)"/>
+![Banner](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/106/526/datas/original.gif)
 
 <h3 align="left">Welcome! Explore my profile and view my coding projects.</h3>
 
