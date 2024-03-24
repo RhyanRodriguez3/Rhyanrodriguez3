@@ -1,4 +1,4 @@
-![Banner](https://64.media.tumblr.com/4b3b0287ca43ce1021340cd692f65f9f/tumblr_mj7iufgKNi1qghl49o1_500.gifv)
+<img src="https://64.media.tumblr.com/4b3b0287ca43ce1021340cd692f65f9f/tumblr_mj7iufgKNi1qghl49o1_500.gifv" alt="Banner" width="800"/>
 
 <h3 align="left">Welcome! Explore my profile and view my coding projects.</h3>
 
