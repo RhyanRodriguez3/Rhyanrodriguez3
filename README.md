@@ -1,5 +1,3 @@
-<img src="https://pbs.twimg.com/media/EzkIesyX0AA3CNW.png" alt="Banner" width="500"/>
-
 <h3 align="left">Welcome! Explore my profile and view my coding projects.</h3>
 
 
