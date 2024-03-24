@@ -1,10 +1,4 @@
-<h3 align="left">Welcome! Explore my profile and view my coding projects.</h3>
-
-
-- I’m currently learning machine learning with PyTorch 🌱
-- I’m looking to collaborate on business valuation and optimization 💼📈
-
-
+<h3 align="left">Welcome! Explore my profile and view my coding projects💼📈.</h3>
 
 
 <h3 align="left">Personal Developer Stack</h3>
