@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer & Business Consultant)`**
 
-I'm an professional business intelligence developer and business consultant with 5 year's experience solving problems in the healthcare and finance industry. Everyone's got to start somewhere and a little bit of help and guidance goes a long way. So explore my repos, learn a little something along the way, assess my skills if your an employer and connect with me!
+I'm an professional business intelligence developer and business consultant with 5 year's experience solving problems in the healthcare and finance industry. Everyone's got to start somewhere and a little bit of help and guidance goes a long way. So explore my repos, learn a little something along the way, assess my skills if your an employer, and connect with me!
 
 
 ---
@@ -19,5 +19,5 @@ I'm an professional business intelligence developer and business consultant with
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java.
