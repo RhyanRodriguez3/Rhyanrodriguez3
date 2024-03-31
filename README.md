@@ -1,6 +1,6 @@
 # 👋🏼Welcome!
 
-**`Digital Craftsman (Developer & Business Consultant)`** **`Developer`** **`Business Consultant`**
+**`Digital Craftsman`** **`Developer`** **`Business Consultant`**
 
 I'm an professional business intelligence developer and business consultant with 5 year's experience solving problems in the healthcare and finance industry. Everyone's got to start somewhere and a little bit of help and guidance goes a long way. So explore my repos, learn a little something along the way, assess my skills if your an employer, and connect with me!
 
