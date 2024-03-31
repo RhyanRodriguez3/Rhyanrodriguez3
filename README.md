@@ -2,7 +2,7 @@
 
 **`Digital Craftsman`**  **`Business Consultant`**
 
-I'm a professional business intelligence developer and business consultant with 5 year's experience solving problems in the healthcare and finance industry. Everyone's got to start somewhere, and before I had any experience, I had to learn. A little bit of help and guidance goes a long way. So explore my repos, they're guides I built along the way, assess my skills if your an employer, and connect with me!
+Everyone's got to start somewhere, and before I had any experience, I had to learn. A little bit of help and guidance goes a long way. So explore my repos, they're guides I built along the way, assess my skills if your an employer, and connect with me!
 
 
 ---
