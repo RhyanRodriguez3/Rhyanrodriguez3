@@ -34,7 +34,7 @@ Making github look cool
 Badges - https://www.youtube.com/watch?v=oJWFfp3sGYA
 Input YT courses with images w/ Forrest- https://www.youtube.com/watch?v=9A8sQZDRn5o
 Hacking COntributions Graph - https://www.youtube.com/watch?v=2q--gA97caM
-"OH NO! A snake ATE my Github contributions!" - https://www.youtube.com/watch?v=pkY18HTfeL8 
+
 
 GREAT YT SOURCES
 -	ML – Krish Naik
