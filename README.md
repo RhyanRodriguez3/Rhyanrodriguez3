@@ -50,11 +50,7 @@ GREAT YT SOURCES
 </details>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
-![snake gif](https://github.com/RhyanRodriguez3/RhyanRodriguez3/blob/output/github-contribution-grid-snake.gif)
+# "OH NO! A snake ATE my Github contributions!"
+![snake gif](https://github.com/RhyanRodriguez3/Rhyanrodriguez3/blob/output/github-contribution-grid-snake.svg)
 
