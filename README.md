@@ -51,6 +51,6 @@ GREAT YT SOURCES
 
 
 
-# "OH NO! A snake ATE my Github contributions!"
+## "OH NO! A snake ATE my Github contributions!"
 ![snake gif](https://github.com/RhyanRodriguez3/Rhyanrodriguez3/blob/output/github-contribution-grid-snake.svg)
 
