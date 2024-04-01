@@ -29,4 +29,16 @@ Roles in Data Science Teams - https://www.youtube.com/watch?v=m5hLUknIi5c
 Learn APIS - https://www.youtube.com/watch?v=WXsD0ZgxjRw
 Overall Data Science - https://www.youtube.com/@derekbanas/playlists
 Input YT courses with images w/ Forrest- https://www.youtube.com/watch?v=9A8sQZDRn5o
+
+GREAT YT SOURCES
+-	ML – Krish Naik
+-	Blockchain – Telusko
+-	Cybersecurity – Network Chuck
+-	Web Dev – Code w/ Harry
+-	Linux – Programming Knowledge
+-	Dev Ops – Kunal Kushwaha
+-	Computer Networks – David Bombal
+-	Learn Git – git-scm.com/book
+-	AI – Learnelementsofai.com
+-	API – rapidapi.com/learn
 --->
