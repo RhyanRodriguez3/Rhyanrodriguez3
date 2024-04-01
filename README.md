@@ -25,6 +25,7 @@ Everyone's got to start somewhere, and before I had any experience, I had to lea
 <!---
 Data Engineering Fundamentals - https://www.youtube.com/watch?v=qWru-b6m030
 Roles in Data Science Teams - https://www.youtube.com/watch?v=m5hLUknIi5c 
-Input YT courses with images w/ Forrest- https://www.youtube.com/watch?v=9A8sQZDRn5o
 Learn APIS - https://www.youtube.com/watch?v=WXsD0ZgxjRw
+Overall Data Science - https://www.youtube.com/@derekbanas/playlists
+Input YT courses with images w/ Forrest- https://www.youtube.com/watch?v=9A8sQZDRn5o
 --->
