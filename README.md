@@ -12,7 +12,7 @@ Everyone's got to start somewhere, and a little help and guidance goes a long wa
 
 
 <!---
-### "Oh no! A snake ATE my Github contributions!"
+### "Oh no! A snake ATE my Github contributions!" - https://www.youtube.com/watch?v=pkY18HTfeL8
 ![snake gif](https://github.com/RhyanRodriguez3/RhyanRodriguez3/blob/output/github-contribution-grid-snake.svg)
 --->
  
