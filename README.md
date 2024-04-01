@@ -21,6 +21,13 @@ Everyone's got to start somewhere, and before I had any experience, I had to lea
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    *WIP*
  
+ </details>
+
+
+## "Oh no! A snake ATE my Github contributions!"
+![snake gif](https://github.com/RhyanRodriguez3/Rhyanrodriguez3/blob/output/github-contribution-grid-snake.svg)
+
+ 
 <!---
 Data Engineering Fundamentals - https://www.youtube.com/watch?v=qWru-b6m030
 Data Engineering RoadMap - https://www.youtube.com/@SeattleDataGuy/playlists
@@ -47,10 +54,9 @@ GREAT YT SOURCES
 -	AI – Learnelementsofai.com
 -	API – rapidapi.com/learn
 --->
-</details>
 
 
 
-## "OH NO! A snake ATE my Github contributions!"
-![snake gif](https://github.com/RhyanRodriguez3/Rhyanrodriguez3/blob/output/github-contribution-grid-snake.svg)
+
+
 
