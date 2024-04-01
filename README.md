@@ -15,8 +15,9 @@ Everyone's got to start somewhere, and before I had any experience, I had to lea
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br />
 
-
 #
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
