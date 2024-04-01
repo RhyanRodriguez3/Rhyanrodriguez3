@@ -24,7 +24,7 @@ Everyone's got to start somewhere, and before I had any experience, I had to lea
  
 <!---
 Data Engineering Fundamentals - https://www.youtube.com/watch?v=qWru-b6m030
- - https://www.youtube.com/@SeattleDataGuy/playlists
+Data Engineering RoadMap - https://www.youtube.com/@SeattleDataGuy/playlists
 Roles in Data Science Teams - https://www.youtube.com/watch?v=m5hLUknIi5c 
 Learn APIS - https://www.youtube.com/watch?v=WXsD0ZgxjRw
 Overall Data Science - https://www.youtube.com/@derekbanas/playlists
