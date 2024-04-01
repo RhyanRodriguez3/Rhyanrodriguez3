@@ -28,7 +28,13 @@ Data Engineering RoadMap - https://www.youtube.com/@SeattleDataGuy/playlists
 Roles in Data Science Teams - https://www.youtube.com/watch?v=m5hLUknIi5c 
 Learn APIS - https://www.youtube.com/watch?v=WXsD0ZgxjRw
 Overall Data Science - https://www.youtube.com/@derekbanas/playlists
+
+
+Making github look cool 
+Badges - https://www.youtube.com/watch?v=oJWFfp3sGYA
 Input YT courses with images w/ Forrest- https://www.youtube.com/watch?v=9A8sQZDRn5o
+Hacking COntributions Graph - https://www.youtube.com/watch?v=2q--gA97caM
+Snake eating contribution graph - https://www.youtube.com/watch?v=pkY18HTfeL8
 
 GREAT YT SOURCES
 -	ML – Krish Naik
