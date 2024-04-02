@@ -1,15 +1,24 @@
-**`Digital Craftsman` `Data Janitor`**
-
 # Welcome!
-Everyone's got to start somewhere, and a little help and guidance goes a long way. So explore my repos, they're guides I built along the way, and connect with me.
+Explore my repos, view personal projects, and connect with me! I'm currently learning python for data science and AI/ML.
 
 
-## Languages and Tools
+### Languages and Tools
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+
 <br />
+
+<!---
+<details>
+ <summary>About Me</summary>
+
+**`Digital Craftsman` `Data Janitor` `YT Graduate` `Problem Solver`**
+
+I love using data science to solve business problem. My path began in Excel and grew to data visualizations using Tableau. Everyone's got to start somewhere, and a little help and guidance goes a long way. These repos were originally created to store reusable codes from previous projects, but evolved into guides for the next generation of problem solvers. Here's a few things for us to connect on.
+</details>
+--->
 
 
 <!---
