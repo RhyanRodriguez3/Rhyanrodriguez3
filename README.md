@@ -24,11 +24,11 @@ Learn APIS - https://www.youtube.com/watch?v=WXsD0ZgxjRw
 Overall Data Science - https://www.youtube.com/@derekbanas/playlists
 
 
-Making github look cool 
+Making my github stand out, in my style. 
 Badges - https://www.youtube.com/watch?v=oJWFfp3sGYA
 Input YT courses with images w/ Forrest- https://www.youtube.com/watch?v=9A8sQZDRn5o
 Hacking COntributions Graph - https://www.youtube.com/watch?v=2q--gA97caM
-
+https://www.youtube.com/watch?v=CML6vfKjQss
 
 GREAT YT SOURCES
 -	ML – Krish Naik
