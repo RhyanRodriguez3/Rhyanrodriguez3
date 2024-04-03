@@ -55,8 +55,14 @@ GREAT YT SOURCES
 -	API – rapidapi.com/learn
 --->
 
-
-
-
+<!---
+BI Engineer Interview Prep
+Understand the ETL process and have three stories that show each skill and your impact. 
+You want to be prepared with past experience where you've applied the concepts.
+- I often had to talk with stakeholders and translate their questions into data needs. I can talk about wholesaler price variances and optimization models. I can talk about deadline tasks with 
+- I enjoy data cleansing and documentation but it can be daunting with multiple tasks.
+- One time I was in 2 projects that had compeltely different data requirements and data types.
+Know enough beginner and intermediate SQL coding to clean and analyze data. Then show findings and possible business steps based on results.
+--->
 
 
