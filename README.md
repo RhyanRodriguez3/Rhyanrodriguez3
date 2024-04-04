@@ -16,7 +16,7 @@ Explore my repos, view personal projects, and connect with me! I'm currently lea
  
 **`Digital Craftsman` `Data Janitor` `YT Graduate`**
  
-*WIP*
+*WIP* https://www.markdownguide.org/cheat-sheet/
  
 </details>
 <!---
@@ -29,7 +29,7 @@ I love using data science to solve business problem. My path began in Excel and 
 </details>
 --->
 
-https://www.markdownguide.org/cheat-sheet/
+
 <!---
 ### "Oh no! A snake ATE my Github contributions!" - https://www.youtube.com/watch?v=pkY18HTfeL8
 ![snake gif](https://github.com/RhyanRodriguez3/RhyanRodriguez3/blob/output/github-contribution-grid-snake.svg)
