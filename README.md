@@ -60,6 +60,14 @@ GREAT YT SOURCES
 -	Learn Git – git-scm.com/book
 -	AI – Learnelementsofai.com
 -	API – rapidapi.com/learn
+
+Beginner level is basic stuff you can inform yourself about anywhere.
+Intermediate is applicable knowledge where it is much harder to find good models and processes.
+Advanced this stuff is your own personal knowdledge base. 
+
+Different types of learning environments: 
+
+As a self taught person: Accepting only the stuff that makes sense.
 --->
 
 
