@@ -12,20 +12,21 @@ Explore my repos, view personal projects, and connect with me! I'm currently lea
 <br />
 
 <details>
- <summary>About Me</summary>
+ <summary>BIO</summary>
  
 **`Digital Craftsman` `Data Janitor` `YT Graduate`**
  
-*WIP* https://www.markdownguide.org/cheat-sheet/
+*WIP*
  
 </details>
 <!---
 <details>
  <summary>About Me</summary>
 
+I love using data science to solve business problem. I started in Excel. Excel showed me the basics of reports generation, data modelling, and DAX. Those advanced functions led me to Power BI. I'm currently learning SQL and Python.
 
+Everyone's got to start somewhere, and a little help and guidance goes a long way. These repos were originally created to store reusable codes from previous projects, but evolved into guides for the next generation of problem solvers. Explore my guides, as I made them along my career to explain the overly complicated.
 
-I love using data science to solve business problem. My path began in Excel and grew to data visualizations using Tableau. Everyone's got to start somewhere, and a little help and guidance goes a long way. These repos were originally created to store reusable codes from previous projects, but evolved into guides for the next generation of problem solvers. Here's a few things for us to connect on.
 </details>
 --->
 
@@ -33,6 +34,12 @@ I love using data science to solve business problem. My path began in Excel and 
 <!---
 ### "Oh no! A snake ATE my Github contributions!" - https://www.youtube.com/watch?v=pkY18HTfeL8
 ![snake gif](https://github.com/RhyanRodriguez3/RhyanRodriguez3/blob/output/github-contribution-grid-snake.svg)
+
+Making my github stand out, in my style. 
+Badges - https://www.youtube.com/watch?v=oJWFfp3sGYA
+Input YT courses with images w/ Forrest- https://www.youtube.com/watch?v=9A8sQZDRn5o
+Hacking COntributions Graph - https://www.youtube.com/watch?v=2q--gA97caM
+https://www.youtube.com/watch?v=CML6vfKjQss
 --->
  
 <!---
@@ -42,14 +49,21 @@ Roles in Data Science Teams - https://www.youtube.com/watch?v=m5hLUknIi5c
 Learn APIS - https://www.youtube.com/watch?v=WXsD0ZgxjRw
 Overall Data Science - https://www.youtube.com/@derekbanas/playlists
 
+Beginner level is basic stuff you can inform yourself about anywhere.
+Intermediate is applicable knowledge where it is much harder to find good models and processes.
+Advanced this stuff is your own personal knowdledge base. 
 
-Making my github stand out, in my style. 
-Badges - https://www.youtube.com/watch?v=oJWFfp3sGYA
-Input YT courses with images w/ Forrest- https://www.youtube.com/watch?v=9A8sQZDRn5o
-Hacking COntributions Graph - https://www.youtube.com/watch?v=2q--gA97caM
-https://www.youtube.com/watch?v=CML6vfKjQss
+Different types of learning environments: 
+As a self taught person: Accepting only the stuff that makes sense.
 
 GREAT YT SOURCES
+- Excel 
+- PowerBI 
+- SQL 
+- DSA https://www.youtube.com/watch?v=RcvQagxK_9w&list=PLZlA0Gpn_vH8ShxSPO48q8u0SeQBuCdnN&index=4
+- Python - 
+
+
 -	ML – Krish Naik
 -	Blockchain – Telusko
 -	Cybersecurity – Network Chuck
@@ -60,14 +74,6 @@ GREAT YT SOURCES
 -	Learn Git – git-scm.com/book
 -	AI – Learnelementsofai.com
 -	API – rapidapi.com/learn
-
-Beginner level is basic stuff you can inform yourself about anywhere.
-Intermediate is applicable knowledge where it is much harder to find good models and processes.
-Advanced this stuff is your own personal knowdledge base. 
-
-Different types of learning environments: 
-
-As a self taught person: Accepting only the stuff that makes sense.
 --->
 
 
