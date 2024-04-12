@@ -14,7 +14,7 @@ Explore my repos, view personal projects, and connect with me! I'm currently lea
 <details>
  <summary>BIO</summary>
  
-**`Digital Craftsman` `Data Janitor` `YT Graduate`**
+**`Digital Craftsman` `Data Janitor` `YT Graduate`** AKA "Mr.Dumb-It-Down"
  
 *WIP*
  
