@@ -1,39 +1,20 @@
 # Welcome!
-Explore my repos, view personal projects, and connect with me! I'm currently learning python for data science and AI/ML.
-
+I'm a self-taught developer whose had the fortune of a great mentor. Explore my repos, they're guides for beginners. 
 <br />
 
 ## Languages and Tools
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /><br />
-
 <br />
 
 <details>
- <summary>BIO</summary>
- 
-**`Digital Craftsman` `Data Janitor` `YT Graduate`** AKA "Mr.Dumb-It-Down"
- - The laws of human nature
+ <summary>Read List *WIP*</summary>
+- The laws of human nature
 - Games People Play: The Psychology of Human Relationships - Eric Berne
+- Game Theory 101 - https://www.youtube.com/watch?v=NSVmOC_5zrE&list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo
 - The art of small talk Debra Fine???
 - Letters to a younger brother - Hill Harper
-*WIP*
- 
-</details>
-<!---
-<details>
- <summary>About Me</summary>
-
-I love using data science to solve business problem. I started in Excel. Excel showed me the basics of reports generation, data modelling, and DAX. Those advanced functions led me to Power BI. I'm currently learning SQL and Python.
-
-Everyone's got to start somewhere, and a little help and guidance goes a long way. These repos were originally created to store reusable codes from previous projects, but evolved into guides for the next generation of problem solvers. Explore my guides, as I made them along my career to explain the overly complicated.
-
 
 </details>
---->
-
 
 <!---
 ### "Oh no! A snake ATE my Github contributions!" - https://www.youtube.com/watch?v=pkY18HTfeL8
