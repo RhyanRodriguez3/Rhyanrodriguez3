@@ -26,6 +26,10 @@ Explore my repos, view personal projects, and connect with me! I'm currently lea
 I love using data science to solve business problem. I started in Excel. Excel showed me the basics of reports generation, data modelling, and DAX. Those advanced functions led me to Power BI. I'm currently learning SQL and Python.
 
 Everyone's got to start somewhere, and a little help and guidance goes a long way. These repos were originally created to store reusable codes from previous projects, but evolved into guides for the next generation of problem solvers. Explore my guides, as I made them along my career to explain the overly complicated.
+- The laws of human nature
+- Games People Play: The Psychology of Human Relationships - Eric Berne
+- The art of small talk Debra Fine???
+- Letters to a younger brother - Hill Harper
 
 </details>
 --->
