@@ -13,6 +13,8 @@ I'm a self-taught developer whose had the fortune of a great mentor. Explore my 
 - Game Theory 101 - https://www.youtube.com/watch?v=NSVmOC_5zrE&list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo
 - The art of small talk Debra Fine???
 - Letters to a younger brother - Hill Harper
+- Never Split the Difference: Negotiating As If Your Life Depended On It - Chris Voss
+- War Is A Racket - Smedley D Butler
 
 </details>
 
