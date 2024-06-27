@@ -16,6 +16,8 @@ I'm a self-taught developer whose had the fortune of a great mentor. Explore my 
 - Never Split the Difference: Negotiating As If Your Life Depended On It - Chris Voss
 - War Is A Racket - Smedley D Butler
 - What Every BODY is Saying by Joe Navarro 
+- The Banker's Code: The Most Powerful Wealth-Building Strategies Finally Revealed by George Antone
+- The Pyschology of Money
 
 </details>
 
