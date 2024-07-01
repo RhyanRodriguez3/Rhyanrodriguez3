@@ -8,6 +8,7 @@ I'm a self-taught developer whose had the fortune of a great mentor. Explore my 
 
 <details>
  <summary>Read List *WIP*</summary>
+
 - The laws of human nature
 - Games People Play: The Psychology of Human Relationships - Eric Berne
 - Game Theory 101 - https://www.youtube.com/watch?v=NSVmOC_5zrE&list=PLKI1h_nAkaQoDzI4xDIXzx6U2ergFmedo
@@ -20,6 +21,9 @@ I'm a self-taught developer whose had the fortune of a great mentor. Explore my 
 - The Banker's Code: The Most Powerful Wealth-Building Strategies Finally Revealed by George Antone
 - The Pyschology of Money
 - Nonviolent Communication marshall b. rosenberg PhD.
+- Verbal Judo The Gentle Art of Persuasion
+- The Charisma Myth olivia fox cabane
+
 
 </details>
 
