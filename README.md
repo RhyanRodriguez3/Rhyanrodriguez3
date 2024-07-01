@@ -19,6 +19,7 @@ I'm a self-taught developer whose had the fortune of a great mentor. Explore my 
 - What Every BODY is Saying by Joe Navarro 
 - The Banker's Code: The Most Powerful Wealth-Building Strategies Finally Revealed by George Antone
 - The Pyschology of Money
+- Nonviolent Communication marshall b. rosenberg PhD.
 
 </details>
 
